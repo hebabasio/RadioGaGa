@@ -1,3 +1,5 @@
+
+  // Can you see this?
 color checkboxColor = 255;
 
 class Checkbox extends View {
